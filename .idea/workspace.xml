@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f832668-2e14-4778-bc23-96479e263854" name="Changes" comment="删除无用文件&#10;Add files via upload">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/second-hand-/Used-Trading-Platform2/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,7 @@
       <workItem from="1708818942332" duration="338000" />
       <workItem from="1708966778467" duration="1348000" />
       <workItem from="1709059060645" duration="678000" />
-      <workItem from="1709158847337" duration="311000" />
+      <workItem from="1709158847337" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="删除无用文件&#10;Add files via upload">
       <option name="closed" value="true" />
